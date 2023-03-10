@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Data
+title: Knowledge Graph
 nav_exclude: true
 has_toc: false
 ---
