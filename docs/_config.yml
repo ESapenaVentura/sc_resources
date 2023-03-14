@@ -12,7 +12,7 @@ mermaid:
 
 aux_links:
   "Edit these Docs on GitHub":
-    - "https://github.com/ebi-ait/ingest-programmatic-submissions"
+    - "https://github.com/ESapenaVentura/sc_resources"
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
