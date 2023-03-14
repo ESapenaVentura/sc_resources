@@ -9,6 +9,7 @@ has_toc: false
   graph LR; 
   A(Are you looking for data or tools?)-->B(Data); 
   A-->C(Tools)
+  click C "knowledge_graph/1_tools.html"
   click B "knowledge_graph/1_data.html"
 ```
 
