@@ -1,5 +1,5 @@
 title: "Knowledge graph for Single-cell resources"
-site_url: https://github.com/Wkt8/sc_resources
+site_url: https://esapenaventura.github.io/sc_resources
 plugins:
   - jekyll-remote-theme
 remote_theme: "pmarsceill/just-the-docs"
@@ -12,7 +12,7 @@ mermaid:
 
 aux_links:
   "Edit these Docs on GitHub":
-    - "https://github.com/Wkt8/sc_resources"
+    - "https://github.com/ESapenaVentura/sc_resources"
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
