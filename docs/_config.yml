@@ -4,7 +4,7 @@ plugins:
   - jekyll-remote-theme
 remote_theme: "pmarsceill/just-the-docs"
 
-search_enabled: false
+search_enabled: true
 
 mermaid:
   version: "9.1.7"
